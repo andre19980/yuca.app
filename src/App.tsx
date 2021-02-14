@@ -1,8 +1,16 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import useYuker from './hooks/useYuker.hook';
+
 function App() {
+  const { getYuker } = useYuker();
+
+  useEffect(() => {
+    getYuker();
+  }, [getYuker]);
+
   return (
     <div className="App">
       <header className="App-header">
