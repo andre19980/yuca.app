@@ -12,7 +12,7 @@ class Service {
   price: number;
 
   constructor(service: ServiceApi) {
-    this.id = service.id;
+    this.id = service.id.toString();
     this.name = service.name;
     this.price = service.price;
   }
