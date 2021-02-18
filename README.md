@@ -1,6 +1,6 @@
 # Yuca App
 
-Resolução para o desafio [**Front-End Assessment**](https://github.com/yuca-live/front-end-assessment) da Yuca. O projeto em questão trata-se de uma pequena aplicação em [React](https://pt-br.reactjs.org/) para a contratação de serviços yuca por usuário. Além do framework, foram empregados na tarefa:
+Resolução para o desafio [**Front-End Assessment**](https://github.com/yuca-live/front-end-assessment) da Yuca. O projeto em questão trata-se de uma pequena aplicação em [React](https://pt-br.reactjs.org/) para a contratação de serviços yuca por um usuário. Além do framework, foram empregados na tarefa:
 - [Typescript](https://www.typescriptlang.org/)
 - [Material-UI](https://material-ui.com/)
 - [Styled-components](https://styled-components.com/)
