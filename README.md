@@ -14,7 +14,7 @@ Para rodar a aplicação, é necessário que sua máquina tenha o gerenciador `y
 
 Clone este repositório em sua máquina e entre na pasta:
 ```
-$ git clone 
+$ git clone git@github.com:andre19980/yuca.app.git
 $ cd yuca.app
 ```
 
