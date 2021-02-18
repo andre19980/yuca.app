@@ -25,7 +25,7 @@ $ yarn install
 
 Finalmente, execute:
 ```
-$ yarn install
+$ yarn start
 ```
 
 A aplicação poderá ser acessada pelo `localhost:3000`
