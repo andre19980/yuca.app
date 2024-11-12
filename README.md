@@ -9,6 +9,7 @@ Resolução para o desafio [**Front-End Assessment**](https://github.com/yuca-li
 ## Pré-requisitos
 
 Para rodar a aplicação, é necessário que sua máquina tenha o gerenciador `yarn` instalado e funcionando. Para mais informações, acesse [aqui](https://yarnpkg.com/).
+- node: v16.20.2
 
 ## Uso
 
